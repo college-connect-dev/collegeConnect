@@ -2,7 +2,7 @@ import React from 'react';
 import './App.css';
 
 function App() {
-  return <div className='App'>testing commit</div>;
+  return <div className='App'>forked and pushing from clone</div>;
 }
 
 export default App;
