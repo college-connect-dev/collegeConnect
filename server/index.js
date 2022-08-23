@@ -4,7 +4,6 @@ import cors from 'cors';
 import mongoose from 'mongoose';
 import dotenv from 'dotenv';
 
-//setup the app
 const app = express();
 dotenv.config();
 
